@@ -1,0 +1,26 @@
+div {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.div200 {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+.div200green {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+.div200yellow {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+.div600 {
+    width: 600px;
+    height: 200px;
+    background-color: blue;
+}
